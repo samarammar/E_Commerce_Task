@@ -8,6 +8,6 @@ I have also used
 You can find code divided into 3 layers:
 - Presentation
 - Domain
--Data
+- Data
 
-and the Dependency Injection Folder.
+and the Dependency Injection Modules Folder.
