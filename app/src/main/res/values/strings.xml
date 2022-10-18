@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="error_not_found">Error: Not Found</string>
+    <string name="error_something_went_wrong">Something went wrong</string>
+    <string name="product_name">Product name</string>
+    <string name="price">Price</string>
+    <string name="about_product">About Product:</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_name">Product name</string>
+    <string name="price">Price</string>
+    <string name="about_product">About Product:</string>
+</resources>
