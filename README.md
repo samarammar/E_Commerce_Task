@@ -6,7 +6,8 @@ I have also used
 - Kotlin FLow
 
 You can find code divided into 3 layers:
-Presentation
-Domain
-Data
-and th Dependency Injection Folder.
+- Presentation
+- Domain
+-Data
+
+and the Dependency Injection Folder.
